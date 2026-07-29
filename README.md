@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1936-add-minimum-number-of-rungs) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1936-add-minimum-number-of-rungs) |
+| [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3891-minimum-increase-to-maximize-special-indices) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
+| [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3099-harshad-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3280-convert-date-to-binary) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sweep Line
 |  |
