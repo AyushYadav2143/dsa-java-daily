@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0583-delete-operation-for-two-strings) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0394-decode-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Geometry
 |  |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0986-interval-list-intersections) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
