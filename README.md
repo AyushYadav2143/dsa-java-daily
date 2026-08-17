@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0074-search-a-2d-matrix) |
 | [0322-coin-change](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0322-coin-change) |
 | [0566-reshape-the-matrix](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0931-minimum-falling-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0976-largest-perimeter-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0147-insertion-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1288-remove-covered-intervals) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1323-maximum-69-number) |
