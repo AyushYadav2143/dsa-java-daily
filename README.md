@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1706-where-will-the-ball-fall) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1706-where-will-the-ball-fall) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0566-reshape-the-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1706-where-will-the-ball-fall) |
 | [2028-find-missing-observations](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2028-find-missing-observations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
