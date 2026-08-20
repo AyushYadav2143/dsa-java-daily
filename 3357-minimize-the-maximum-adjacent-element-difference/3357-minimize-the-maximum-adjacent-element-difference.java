@@ -67,8 +67,6 @@ class Solution {
             prev = nums[i];
             gapLength = 0;
         }
-
-        // Leading -1s
         if (nums[0] == -1) {
 
             int i = 0;
@@ -88,8 +86,6 @@ class Solution {
                 return false;
             }
         }
-
-        // Trailing -1s
         if (nums[nums.length - 1] == -1) {
 
             int i = nums.length - 1;
@@ -122,17 +118,14 @@ class Solution {
 
         int low = 0;
 
-        // Find:
-        // 1. Maximum fixed difference
-        // 2. Minimum known value adjacent to -1
-        // 3. Maximum known value adjacent to -1
+       
         for (int i = 0; i < n; i++) {
 
             if (nums[i] == -1) {
                 continue;
             }
 
-            // Fixed difference
+           
             if (i > 0 && nums[i - 1] != -1) {
                 low = Math.max(
                     low,
@@ -140,7 +133,6 @@ class Solution {
                 );
             }
 
-            // Boundary value of a -1 block
             if ((i > 0 && nums[i - 1] == -1) ||
                 (i + 1 < n && nums[i + 1] == -1)) {
 
@@ -149,9 +141,7 @@ class Solution {
             }
         }
 
-        // No known values next to -1.
-        // This means either there are no -1s or the whole array
-        // consists of -1s.
+       
         if (minValue == Integer.MAX_VALUE) {
             return low;
         }
@@ -162,8 +152,6 @@ class Solution {
 
             int mid = low + (high - low) / 2;
 
-            // These are the optimal candidate values for x and y
-            // for this particular maximum difference mid.
             int x = minValue + mid;
             int y = maxValue - mid;
 
