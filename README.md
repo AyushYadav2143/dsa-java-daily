@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1664-ways-to-make-a-fair-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1706-where-will-the-ball-fall) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1664-ways-to-make-a-fair-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1664-ways-to-make-a-fair-array) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
