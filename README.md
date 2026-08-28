@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2761-prime-pairs-with-target-sum) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2769-find-the-maximum-achievable-number) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3099-harshad-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3280-convert-date-to-binary) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
