@@ -3,7 +3,6 @@ class Solution {
         int x1=target[0];
         int y1=target[1];
         int ownDist=Math.abs(x1-0)+Math.abs(y1-0);
-        ArrayList<Integer>ghostDist=new ArrayList<>();
         for(int i=0;i<ghosts.length;i++){
             int x2=ghosts[i][0];
             int y2=ghosts[i][1];
