@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2028-find-missing-observations) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2347-best-poker-hand](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2347-best-poker-hand) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1936-add-minimum-number-of-rungs) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2706-buy-two-chocolates](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2706-buy-two-chocolates) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
