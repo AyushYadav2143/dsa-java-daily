@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0386-lexicographical-numbers) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1145-binary-tree-coloring-game) |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
 | [3528-unit-conversion-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
@@ -237,11 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1145-binary-tree-coloring-game) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1145-binary-tree-coloring-game) |
 ## Hash Table
 |  |
 | ------- |
