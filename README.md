@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-find-longest-awesome-substring](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1542-find-longest-awesome-substring) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1844-replace-all-digits-with-characters](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
