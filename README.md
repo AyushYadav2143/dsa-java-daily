@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2761-prime-pairs-with-target-sum) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2860-happy-students](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2860-happy-students) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3169-count-days-without-meetings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1664-ways-to-make-a-fair-array) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
