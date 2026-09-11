@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2562-find-the-array-concatenation-value](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2643-row-with-maximum-ones](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2643-row-with-maximum-ones) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0986-interval-list-intersections) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2562-find-the-array-concatenation-value](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2562-find-the-array-concatenation-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1706-where-will-the-ball-fall) |
 | [2028-find-missing-observations](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2028-find-missing-observations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2562-find-the-array-concatenation-value](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
