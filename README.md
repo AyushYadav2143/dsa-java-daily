@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2430-maximum-deletions-on-a-string](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2430-maximum-deletions-on-a-string) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2937-make-three-strings-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2937-make-three-strings-equal) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1025-divisor-game) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [2430-maximum-deletions-on-a-string](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2430-maximum-deletions-on-a-string) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Counting Sort
@@ -482,4 +484,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Rolling Hash
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2430-maximum-deletions-on-a-string) |
+## String Matching
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2430-maximum-deletions-on-a-string) |
+## Hash Function
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2430-maximum-deletions-on-a-string) |
 <!---LeetCode Topics End-->
