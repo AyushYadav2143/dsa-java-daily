@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1025-divisor-game) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1323-maximum-69-number](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0986-interval-list-intersections) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2562-find-the-array-concatenation-value](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2562-find-the-array-concatenation-value) |
 ## Dynamic Programming
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0074-search-a-2d-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2736-maximum-sum-queries](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2736-maximum-sum-queries) |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
