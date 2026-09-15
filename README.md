@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2706-buy-two-chocolates](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2706-buy-two-chocolates) |
 | [2736-maximum-sum-queries](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2736-maximum-sum-queries) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0322-coin-change) |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3528-unit-conversion-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3528-unit-conversion-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -265,12 +267,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1145-binary-tree-coloring-game) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1145-binary-tree-coloring-game) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
