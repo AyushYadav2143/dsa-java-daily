@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1664-ways-to-make-a-fair-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1664-ways-to-make-a-fair-array) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1694-reformat-phone-number](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1694-reformat-phone-number) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1844-replace-all-digits-with-characters](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2347-best-poker-hand](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2347-best-poker-hand) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1540-can-convert-string-in-k-moves) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1542-find-longest-awesome-substring) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
