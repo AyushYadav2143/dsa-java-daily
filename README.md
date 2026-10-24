@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2347-best-poker-hand) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2562-find-the-array-concatenation-value](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2347-best-poker-hand](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2347-best-poker-hand) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3527-find-the-most-common-response](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0074-search-a-2d-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushYadav2143/dsa-java-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2601-prime-subtraction-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2736-maximum-sum-queries](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2736-maximum-sum-queries) |
